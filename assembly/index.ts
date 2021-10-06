@@ -7,7 +7,7 @@ import {
 } from '../node_modules/xrpl-hooks-api-assembly-script/dist'
 
 export function cbak(reserved: i64): i64 {
-  return 0
+  return reserved
 }
 
 export function hook(reserved: i64): i64 {
