@@ -1,0 +1,17 @@
+{
+  "name": "xrpl-hooks-api-assembly-script",
+  "version": "0.2.9",
+  "description": "XRPL hooks API exports that you can import into your XRPL hooks project written in AssemblyScript.",
+  "main": "dist/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfgrissom/xrpl-hooks-api-assembly-script.git"
+  },
+  "keywords": ["xrpl", "hooks", "assemblyscript"],
+  "author": "Jay Grissom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfgrissom/xrpl-hooks-api-assembly-script/issues"
+  },
+  "homepage": "https://github.com/jfgrissom/xrpl-hooks-api-assembly-script#readme"
+}
