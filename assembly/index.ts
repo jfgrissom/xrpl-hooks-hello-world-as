@@ -3,9 +3,7 @@
 import {
   _g as GUARD,
   trace as TRACE,
-  accept as ACCEPT,
-  hook_account as HOOK_ACCOUNT,
-  rollback as ROLLBACK
+  accept as ACCEPT
 } from '../node_modules/xrpl-hooks-api-assembly-script/dist'
 
 export function cbak(reserved: i64): i64 {
