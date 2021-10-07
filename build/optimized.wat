@@ -23,7 +23,7 @@
  (export "hook" (func $assembly/index/hook))
  (export "memory" (memory $0))
  (func $assembly/index/cbak (param $0 i64) (result i64)
-  i64.const 0
+  local.get $0
  )
  (func $assembly/index/hook (param $0 i64) (result i64)
   i32.const 1200
